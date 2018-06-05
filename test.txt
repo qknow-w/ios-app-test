@@ -1,0 +1,1 @@
+itms-services:///?action=download-manifest&url=https://gitee.com/503945930/sea-app/blob/master/sea.plist
